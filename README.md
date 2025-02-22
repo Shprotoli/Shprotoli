@@ -2,7 +2,7 @@
 
 <div>
   <!-- back -->
-  <img src="https://github.com/Shprotoli/Shprotoli/blob/main/Group%202.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shprotoli/Shprotoli/blob/main/Group%202.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
