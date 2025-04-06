@@ -1,8 +1,7 @@
-### :hammer_and_wrench: Языки и Фреймворки/Библиотеки:
+### :hammer_and_wrench:
 
 <div>
   <!-- back -->
-  <img src="https://github.com/Shprotoli/Shprotoli/blob/main/Group%202.svg" title="Python" alt="Python" width="800" height="400"/>&nbsp;
 </div>
 
 <!--
