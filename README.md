@@ -1,20 +1,29 @@
-### :hammer_and_wrench:
+# 🎭 Socials link
 
-<div>
-  <!-- back -->
-</div>
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/shprotsochi)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OxF7B023)
 
-<!--
-**Shprotoli/Shprotoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=KoP3YkA&color=blue)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<br>
+<br>
+
+# 💼 My Stack
+
+### 🐍 Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,django" />
+</p>
+
+### 💠 C++
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+### 🌐 JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vue" />
+</p>
